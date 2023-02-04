@@ -1,6 +1,6 @@
 {
-    "author": "Osiel Esquivel Pinto",
     "name": "fcc-learn-npm-package-json",
+    "author": "Osiel Esquivel Pinto",
     "dependencies": {
         "express": "^4.14.0"
     },
